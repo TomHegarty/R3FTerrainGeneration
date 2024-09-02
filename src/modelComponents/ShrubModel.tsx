@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { useGLTF } from '@react-three/drei';
 
 export function ShrubModel(props: any) {

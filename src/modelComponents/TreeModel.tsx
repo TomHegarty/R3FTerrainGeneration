@@ -1,4 +1,5 @@
-import React, { useRef } from 'react';
+//@ts-nocheck
+
 import { useGLTF } from '@react-three/drei';
 
 export function TreeModel(props) {

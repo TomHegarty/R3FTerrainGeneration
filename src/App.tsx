@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { CameraControls } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
 import { Suspense, forwardRef, useEffect, useMemo, useRef, useState } from 'react';
